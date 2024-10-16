@@ -1,0 +1,20 @@
+body{
+  background-color: #1d2630;
+
+}
+
+*{
+  color: #fff;
+}
+
+#cart-table th, #cart-table td{
+  text-align: center;
+
+}
+
+#total-cost{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
